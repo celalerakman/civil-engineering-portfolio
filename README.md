@@ -38,6 +38,12 @@ Six residential blocks, 288 apartments and a common basement. Gross floor area: 
 
 ![Elastic frame analysis](ST_W01_SA_Overview.png)
 
+## Villa development - reinforcement scheduling
+
+[Reinforcement package](RC_V01_Reinforcement_Package.zip) and [editable workbook](RC_V01_Reinforcement_BBS.xlsx): 24 villas, 6,048 m2, 10,608 bar-mark groups and 243.196 t net scheduled steel. Nine sheets connect geometry, bending/cutting lengths, quantities, procurement and pour releases. Source geometry and independent verification accompany the workbook.
+
+![Villa reinforcement scheduling](RC_V01_Geometry.png)
+
 ## Working with the files
 
 Download the Excel workbooks and open them in Microsoft Excel. Editable assumptions and calculation conventions are recorded inside each workbook. Formula checks and control totals are visible on the Checks worksheets.
