@@ -24,6 +24,14 @@ Six residential blocks, 288 apartments and a common basement. Gross floor area: 
 
 ![Programme and project controls](CE_R01_PC_Overview.png)
 
+## Steel warehouse - ST-W01
+
+96 x 60 m, three 20 m spans, 774 marked pieces and 289.566 t net theoretical steel.
+
+[Complete CAD package](ST_W01_Steel_Model_GA_Package.zip) includes the IFC4 model, 3D DXF with eight GA layouts, GLB, eight A1 PDF sheets, piece/section registers and validation results.
+
+![Steel warehouse model](ST_W01_Overview.png)
+
 ## Working with the files
 
 Download the Excel workbooks and open them in Microsoft Excel. Editable assumptions and calculation conventions are recorded inside each workbook. Formula checks and control totals are visible on the Checks worksheets.
