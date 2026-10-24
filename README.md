@@ -32,6 +32,12 @@ Six residential blocks, 288 apartments and a common basement. Gross floor area: 
 
 ![Steel warehouse model](ST_W01_Overview.png)
 
+## Steel warehouse - structural analysis
+
+[Elastic analysis package](ST_W01_Elastic_Analysis_Package.zip): 15-page report, 17 load combinations, 56 frame elements and 16,184 result stations. Equilibrium, closed-form beam/column benchmarks and mesh refinement checks are included. The review identifies section stress, sway and stability items requiring a subsequent design revision.
+
+![Elastic frame analysis](ST_W01_SA_Overview.png)
+
 ## Working with the files
 
 Download the Excel workbooks and open them in Microsoft Excel. Editable assumptions and calculation conventions are recorded inside each workbook. Formula checks and control totals are visible on the Checks worksheets.
