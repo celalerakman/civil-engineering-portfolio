@@ -44,6 +44,13 @@ Six residential blocks, 288 apartments and a common basement. Gross floor area: 
 
 ![Villa reinforcement scheduling](RC_V01_Geometry.png)
 
+
+## Residential development - commercial control
+
+[Commercial control workbook](CE_R01_Commercial_Control.xlsx) and [complete package](CE_R01_Commercial_Control_Package.zip): 11 sheets, 384 measurement records, 408 accrued costs, 24 variations and 64 purchasing commitments. CVR, earned value, ETC/EAC, approval status and 12 interim payment certificates with capped retention and advance recovery. 2,338 formulas, five filterable tables and a native chart. Independent input-change and arithmetic checks included.
+
+![Commercial report](CE_R01_CM_Overview.png)
+
 ## Working with the files
 
 Download the Excel workbooks and open them in Microsoft Excel. Editable assumptions and calculation conventions are recorded inside each workbook. Formula checks and control totals are visible on the Checks worksheets.
@@ -53,3 +60,4 @@ The cash model uses the BOQ baseline without external workbook links. It disting
 The programme uses the same direct BOQ budget with a detailed activity network. Its time loading is a separate baseline from the aggregate cashflow phasing. Weekly workforce demand is shown before resource levelling.
 
 Independent portfolio projects. Concept geometry, preliminary reinforcement quantities and indicative rates are documented. These files are not commissioned client deliverables or issued-for-construction designs.
+
