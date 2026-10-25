@@ -51,6 +51,13 @@ Six residential blocks, 288 apartments and a common basement. Gross floor area: 
 
 ![Commercial report](CE_R01_CM_Overview.png)
 
+
+## Site platform - IN-E01 earthworks
+
+[Earthworks package](IN_E01_Earthworks_Package.zip) includes a layered 3D DXF, existing and formation OBJ meshes, a 12-sheet A3 drawing set, seven cross sections and CSV surface/triangle records. The 72,000 m2 platform uses 775 vertices and 1,440 triangles per surface. Formation cut: 16,407.254 m3 bank. Fill: 60,826.588 m3 compacted. Topsoil: 14,400 m3. Cut/fill triangles are clipped at the zero line and independently checked by 1 m integration. Constructed portfolio terrain, not a surveyed site.
+
+![Earthworks and formation](IN_E01_3D_Overview.png)
+
 ## Working with the files
 
 Download the Excel workbooks and open them in Microsoft Excel. Editable assumptions and calculation conventions are recorded inside each workbook. Formula checks and control totals are visible on the Checks worksheets.
@@ -60,4 +67,5 @@ The cash model uses the BOQ baseline without external workbook links. It disting
 The programme uses the same direct BOQ budget with a detailed activity network. Its time loading is a separate baseline from the aggregate cashflow phasing. Weekly workforce demand is shown before resource levelling.
 
 Independent portfolio projects. Concept geometry, preliminary reinforcement quantities and indicative rates are documented. These files are not commissioned client deliverables or issued-for-construction designs.
+
 
